@@ -108,11 +108,27 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <div align="center">
 
 **Current Mood & Track**<br>
-[![Featured Track](https://img.shields.io/badge/Featured_Track-Am_I_Dreaming-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW)
-<br>
-<a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW">
-  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026ed9aef791159496b286179f" width="400" alt="Am I Dreaming Cover" />
-</a>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" rowspan="2">
+        <a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW">
+          <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026ed9aef791159496b286179f" width="120" style="border-radius: 10px;" />
+        </a>
+      </td>
+      <td align="left" style="padding-left: 20px;">
+        <img src="https://img.shields.io/badge/PLAYING_NOW-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><br>
+        <b>Am I Dreaming</b><br>
+        <small>Metro Boomin & A$AP Rocky</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding-left: 20px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=1DB954&center=false&vCenter=true&width=200&lines=━━━●───────────────;━━━━━━●────────────;━━━━━━━━━●─────────;━━━━━━━━━━━━●━━━━━━;━━━━━━━━━━━━━━━●━━━" alt="Progress Bar" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <br>**Developer Achievements**<br>
