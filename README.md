@@ -86,7 +86,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=tokyonight&no-bg=false&margin-w=4" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical" alt="github trophies" />
 </p>
 
 ### 📊 GitHub Stats
@@ -99,6 +99,14 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false" alt="Nihal's Activity Graph" />
 </p>
+
+### 🧊 3D Contribution Graph
+
+*(Want to see your stats in 3D? Set up the [github-profile-3d-contrib](https://github.com/yoshihide/github-profile-3d-contrib) action and place the generated image here!)*
+<br>
+<img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+<br>
 
 ### 🐍 Contribution Activity
 
