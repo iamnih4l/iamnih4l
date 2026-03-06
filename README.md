@@ -13,18 +13,27 @@
 
 ### 💫 About Me:
 
-- 🔭 **I’m currently working on:** AI-powered web apps, startup-ready products like InternSwipe, and projects blending AI + media + storytelling!
-- 🌱 **I’m currently learning:** Advanced Machine Learning, FastAPI, System Design, and building highly scalable systems.
-- 👯 **I’m looking to collaborate on:** AI/ML projects, startup ideas, hackathons, short films, and tech-meets-creativity experiments.
-- 🤝 **I’m looking for help with:** Scaling products, refining AI models, startup strategy, and deploying real-world ML systems.
-- 💬 **Ask me about:** AI & ML, startup building, filmmaking, Vercel deployments, or bringing products from zero to one.
-- ⚡ **Fun fact:** I direct short films alongside building AI apps because creativity + code is the real superpower! 🚀
+Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Science (AI & ML), passionate about building technology that solves real-world problems.
+
+- 🤖 **My Focus:** I love exploring the intersection of AI, startups, research, and creative technology. I'm very product-focused—I enjoy building things that can turn into real platforms or startups rather than just academic experiments.
+- 💡 **Technical Interests:** Multi-agent AI systems, Reinforcement Learning, Autonomous systems, Applied AI research, and AI product development.
+- 🎬 **Creative Side:** Outside of engineering, I am deeply interested in storytelling and filmmaking. I've worked on multiple short films as a Lead Actor, Director, Scriptwriter, and DOP. These creative experiences influence how I approach user experience and product design!
+- 🚀 **What Drives Me:** Building impactful systems that combine intelligence, creativity, and real-world utility. My long-term goal is to work on advanced AI systems and build innovative startups while continuing to explore creative storytelling.
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iam.nih4l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-nih4l) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iam.nih4l)
 
 </div>
+
+---
+
+### 🚀 Featured Projects:
+
+- 🏥 **CouncilAI**: A concept for a multi-model AI diagnostic system for medical imaging. It uses multiple AI models that act like a "council" to analyze medical images and provide reliable decisions by combining their outputs and reasoning before producing a final result.
+- 🎓 **InternSwipe**: A platform designed to help students discover internships in a more engaging way using a swipe-based interface. Matches opportunities based on skills and personality, while including training resources and gamified tasks.
+- 💬 **YeapperBot**: An AI-powered conversational assistant designed for websites and applications to help businesses automate user interactions, provide instant information, and improve engagement with contextual understanding.
+- ⏱️ **Doomsday AI Clock**: A project inspired by the global Doomsday Clock. Uses data analysis and AI-based simulation to estimate global risk levels based on geopolitical tension, technological risks, and instability indicators to visualize how close the world is to major global crises.
 
 ---
 
