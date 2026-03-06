@@ -85,26 +85,22 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=onedark" alt="github trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical)
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=radical" alt="Nihal's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iamnih4l&theme=tokyonight" alt="Nihal's GitHub Streak" />
-</p>
+![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=radical)
+![Nihal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false" alt="Nihal's Activity Graph" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=radical)
 
+### 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false)
+
+<!-- 🧊 3D Contribution Graph section hidden until workflow run completes -->
+<!-- 
 ### 🧊 3D Contribution Graph
-
-*(I've set up the automation! The 3D graph will appear here once the first GitHub Action run completes tonight. If you want to see it now, run the "GitHub-Profile-3D-Contrib" action manually in your Actions tab.)*
-<br>
-<!-- Once the action runs, uncomment this line:
 <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 -->
 
