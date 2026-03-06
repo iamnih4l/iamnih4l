@@ -81,14 +81,14 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight&hide_border=false" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight&hide_border=false" width="100%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight)
 
 ---
 
@@ -97,7 +97,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <div align="center">
 
 **Current Mood & Music**<br>
-[![Spotify](https://novatorem-spotify-now-playing.vercel.app/api/now-playing?username=iamnih4l&type=standard&theme=tokyonight)](https://open.spotify.com/user/iamnih4l)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)](https://open.spotify.com/user/iamnih4l)
 
 <br>**Developer Achievements**<br>
 ![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
@@ -119,16 +119,16 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 ### 🧊 3D Contribution Graph
 *(Generating daily via GitHub Actions)*<br>
 <!-- 
-<img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+![](https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg)
 -->
 
 ### 🐍 Contribution Activity
-<img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![](https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg)
 
 <br>
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
