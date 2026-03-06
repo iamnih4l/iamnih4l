@@ -86,13 +86,13 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=onedark" alt="github trophies" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&theme=radical&show_icons=true&include_all_commits=true&count_private=false" alt="Nihal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=radical" alt="Nihal's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=iamnih4l&theme=tokyonight" alt="Nihal's GitHub Streak" />
 </p>
 
@@ -102,9 +102,11 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🧊 3D Contribution Graph
 
-*(Want to see your stats in 3D? Set up the [github-profile-3d-contrib](https://github.com/yoshihide/github-profile-3d-contrib) action and place the generated image here!)*
+*(I've set up the automation! The 3D graph will appear here once the first GitHub Action run completes tonight. If you want to see it now, run the "GitHub-Profile-3D-Contrib" action manually in your Actions tab.)*
 <br>
+<!-- Once the action runs, uncomment this line:
 <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+-->
 
 <br>
 
