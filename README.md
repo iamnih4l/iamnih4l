@@ -7,6 +7,9 @@
     </a>
   </h1>
   <p><b>AI & ML Enthusiast | Developer | Filmmaker 🚀</b></p>
+  <a href="https://iamnih4l.vercel.app/">
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-2671E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -22,6 +25,8 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamnih4l.vercel.app-2671E5?style=for-the-badge&logo=vercel&logoColor=white)](https://iamnih4l.vercel.app/)
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iam.nih4l) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-nih4l) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iam.nih4l)
@@ -102,12 +107,13 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <div align="center">
 
-**Current Mood & Music**<br>
-<a href="https://open.spotify.com/user/iamnih4l">
+**Current Mood & Track**<br>
+[![Featured Track](https://img.shields.io/badge/Featured_Track-Daylight_--_David_Kushner-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW?si=e7993b30f4d04c5e)
+<br>
+<a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW?si=e7993b30f4d04c5e">
   <img src="https://spotify-live-banner.vercel.app/api/card?username=iamnih4l" width="400" alt="Spotify Player" />
 </a>
-<br>
-[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iamnih4l)
+
 
 <br>**Developer Achievements**<br>
 ![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
