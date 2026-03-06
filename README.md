@@ -22,7 +22,9 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iam.nih4l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-nih4l) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iam.nih4l)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iam.nih4l) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-nih4l) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iam.nih4l)
 
 </div>
 
@@ -81,14 +83,21 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=tokyonight&no-bg=false&margin-w=4" alt="github trophies" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Nihal's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=iamnih4l&theme=tokyonight&hide_border=false" alt="Nihal's GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false" alt="Nihal's Activity Graph" />
 </p>
 
 ### 🐍 Contribution Activity
