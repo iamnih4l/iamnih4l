@@ -92,8 +92,8 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Nihal's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iamnih4l&theme=tokyonight&hide_border=false" alt="Nihal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&theme=radical&show_icons=true&include_all_commits=true&count_private=false" alt="Nihal's GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iamnih4l&theme=tokyonight" alt="Nihal's GitHub Streak" />
 </p>
 
 <p align="center">
