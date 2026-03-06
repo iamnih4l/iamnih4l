@@ -3,7 +3,7 @@
   <br>
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2671E5&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Nihal!+%F0%9F%91%8B;I+build+AI-powered+web+apps;I+am+a+Computer+Science+student;I+turn+ideas+into+startup-ready+products;&multiline=false" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2671E5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nihal!+%F0%9F%91%8B;I+build+intelligent+AI+systems;Turning+ambitious+ideas+into+startups;Filmmaker+%26+Creative+Technologist&multiline=false" alt="Typing SVG" />
     </a>
   </h1>
   <p><b>AI & ML Enthusiast | Developer | Filmmaker 🚀</b></p>
