@@ -3,7 +3,7 @@
   <br>
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2671E5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nihal!+%F0%9F%91%8B;Building+AI+with+Heart+%E2%9D%A4%EF%B8%8F;Code+meets+Storytelling+%F0%9F%8C%9F;Dreaming+in+Algorithms+%F0%9F%9A%80&multiline=false" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2671E5&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nihal!+%F0%9F%91%8B;Building+AI+with+Heart+%E2%9D%A4%EF%B8%8F;Code+meets+Storytelling+%F0%9F%8C%9F;Cinematic+Tech+Artist+%F0%9F%8E%AC&multiline=false" alt="Typing SVG" />
     </a>
   </h1>
   <p><b>AI & ML Enthusiast | Developer | Filmmaker 🚀</b></p>
