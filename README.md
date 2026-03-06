@@ -111,7 +111,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 [![Featured Track](https://img.shields.io/badge/Featured_Track-Am_I_Dreaming-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW)
 <br>
 <a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW">
-  <img src="https://spotify-live-banner.vercel.app/api/card?username=iamnih4l" width="400" alt="Spotify Player" />
+  <img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e026ed9aef791159496b286179f" width="400" alt="Am I Dreaming Cover" />
 </a>
 
 
