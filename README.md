@@ -79,49 +79,50 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ---
 
-<br>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical&no-frame=false&margin-w=4" />
-</p>
+---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight&hide_border=false" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight&hide_border=false" width="100%" />
 </div>
 
-### 📈 Activity Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false" />
-</p>
+### 🎮 Fun Stuff & Status:
 
-<!-- 🧊 3D Contribution Graph section hidden until workflow run completes -->
-<!-- 
-### 🧊 3D Contribution Graph
-<img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
--->
+<div align="center">
+
+**Current Mood & Music**<br>
+[![Spotify](https://novatorem-spotify-now-playing.vercel.app/api/now-playing?username=iamnih4l&type=standard&theme=tokyonight)](https://open.spotify.com/user/iamnih4l)
+
+<br>**Developer Achievements**<br>
+![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![](https://img.shields.io/badge/Filmmaker-E4405F?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![](https://img.shields.io/badge/Startup_Founder-2671E5?style=for-the-badge&logo=rocket&logoColor=white)
+
+<br>**My Partner in Crime**<br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="60"><br>
+*Rotom (Electric/Ghost)*
+
+</div>
+
+---
 
 <br>
 
-### 🐍 Contribution Activity
+<div align="center">
 
+### 🧊 3D Contribution Graph
+*(Generating daily via GitHub Actions)*<br>
+<!-- 
+<img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+-->
+
+### 🐍 Contribution Activity
 <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <br>
@@ -131,6 +132,6 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=iamnih4l&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iamnih4l&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
