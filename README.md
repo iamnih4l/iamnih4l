@@ -79,25 +79,26 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ---
 
----
+### 📈 GitHub Highlights
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+![](https://img.shields.io/github/followers/iamnih4l?label=Followers&style=for-the-badge&color=2671E5&logo=github)
+![](https://img.shields.io/github/directory-stats-count/iamnih4l?label=Repositories&style=for-the-badge&color=2671E5&logo=github)
+![](https://img.shields.io/github/stars/iamnih4l?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight)
+*Check out my full metrics on [GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight)*
 
----
+</div>
 
 ### 🎮 Fun Stuff & Status:
 
 <div align="center">
 
 **Current Mood & Music**<br>
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)](https://open.spotify.com/user/iamnih4l)
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iamnih4l)
 
 <br>**Developer Achievements**<br>
 ![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
