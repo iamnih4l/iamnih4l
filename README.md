@@ -85,18 +85,32 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnih4l&theme=radical&no-frame=false&margin-w=4" />
+</p>
 
 ### 📊 GitHub Stats
 
-![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=radical)
-![Nihal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=radical)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnih4l&layout=compact&theme=tokyonight" />
+</div>
 
 ### 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnih4l&theme=tokyonight&hide_border=false" />
+</p>
 
 <!-- 🧊 3D Contribution Graph section hidden until workflow run completes -->
 <!-- 
