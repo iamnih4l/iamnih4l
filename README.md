@@ -108,9 +108,9 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <div align="center">
 
 **Current Mood & Track**<br>
-[![Featured Track](https://img.shields.io/badge/Featured_Track-Daylight_--_David_Kushner-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW?si=e7993b30f4d04c5e)
+[![Featured Track](https://img.shields.io/badge/Featured_Track-Am_I_Dreaming-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW)
 <br>
-<a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW?si=e7993b30f4d04c5e">
+<a href="https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW">
   <img src="https://spotify-live-banner.vercel.app/api/card?username=iamnih4l" width="400" alt="Spotify Player" />
 </a>
 
