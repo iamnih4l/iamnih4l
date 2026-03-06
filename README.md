@@ -98,7 +98,8 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <div align="center">
 
 **Current Mood & Music**<br>
-[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iamnih4l)
+*(Follow the instructions in my chat to activate this live player!)*<br>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)
 
 <br>**Developer Achievements**<br>
 ![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
@@ -133,6 +134,6 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=iamnih4l&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=iamnih4l&color=2671E5&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/iamnih4l)
 
 </div>
