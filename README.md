@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY5aG1mN3JwOWhqaTRtMmQzdWhvMGp4eXhsc21nb3A3cXcwaWlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="100">
   <br>
   <h1>
     <a href="https://git.io/typing-svg">
@@ -84,9 +84,11 @@
 
 ### 🐍 Contribution Activity
 
-*(Generate a snake animation representing your contribution graph by setting up the [snk workflow](https://github.com/Platane/snk) and placing `github-contribution-grid-snake.svg` here!)*
+*(I have set up the GitHub Action for you! The snake animation is currently generating. Once the action finishes on GitHub, uncomment the image tag below to see your snake animation!)*
 <br>
+<!-- Remove these comments when the GitHub Action finishes generating the output branch:
 <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+-->
 
 <br>
 
