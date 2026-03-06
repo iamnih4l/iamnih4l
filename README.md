@@ -124,7 +124,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
     </tr>
     <tr>
       <td align="left" style="padding-left: 20px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=1DB954&center=false&vCenter=true&width=200&lines=━━━●───────────────;━━━━━━●────────────;━━━━━━━━━●─────────;━━━━━━━━━━━━●━━━━━━;━━━━━━━━━━━━━━━●━━━" alt="Progress Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=1DB954&center=false&vCenter=true&width=200&height=40&lines=---o-----------;------o--------;---------o-----;------------o--;---------------o" alt="Progress Bar" />
       </td>
     </tr>
   </table>
