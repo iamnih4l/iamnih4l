@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="100">
+  <img src="https://media.giphy.com/media/3o7TKR1bIEimlvEUQE/giphy.gif" width="100">
   <br>
   <h1>
     <a href="https://git.io/typing-svg">
