@@ -93,11 +93,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🐍 Contribution Activity
 
-*(I have set up the GitHub Action for you! The snake animation is currently generating. Once the action finishes on GitHub, uncomment the image tag below to see your snake animation!)*
-<br>
-<!-- Remove these comments when the GitHub Action finishes generating the output branch:
 <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg" alt="Snake animation" />
--->
 
 <br>
 
