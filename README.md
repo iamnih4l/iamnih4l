@@ -79,17 +79,22 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ---
 
-### 📈 GitHub Highlights
+### 📉 GitHub Highlights
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/iamnih4l?label=Followers&style=for-the-badge&color=2671E5&logo=github)
-![](https://img.shields.io/github/directory-stats-count/iamnih4l?label=Repositories&style=for-the-badge&color=2671E5&logo=github)
-![](https://img.shields.io/github/stars/iamnih4l?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
+| ![](https://img.shields.io/github/followers/iamnih4l?label=Followers&style=for-the-badge&color=2671E5&logo=github) | ![](https://img.shields.io/github/directory-stats-count/iamnih4l?label=Repos&style=for-the-badge&color=2671E5&logo=github) | ![](https://img.shields.io/github/stars/iamnih4l?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github) |
+| :---: | :---: | :---: |
 
 <br>
 
-*Check out my full metrics on [GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnih4l&show_icons=true&theme=tokyonight)*
+**Top Programming Languages**<br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,c,java,html,css,r)](https://skillicons.dev)
+
+<br>
+
+**Current Streak**<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamnih4l&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,8 +103,11 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 <div align="center">
 
 **Current Mood & Music**<br>
-*(Follow the instructions in my chat to activate this live player!)*<br>
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)](https://spotify-github-profile.vercel.app/api/view?uid=iamnih4l&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&interact=true)
+<a href="https://open.spotify.com/user/iamnih4l">
+  <img src="https://spotify-live-banner.vercel.app/api/card?username=iamnih4l" width="400" alt="Spotify Player" />
+</a>
+<br>
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iamnih4l)
 
 <br>**Developer Achievements**<br>
 ![](https://img.shields.io/badge/AI_Explorer-FFD700?style=for-the-badge&logo=openai&logoColor=black)
