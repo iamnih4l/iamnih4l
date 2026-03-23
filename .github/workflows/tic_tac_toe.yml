@@ -1,0 +1,32 @@
+name: Tic-Tac-Toe
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|') || github.event.issue.title == 'ttt_reset'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Play Move
+        run: python .github/scripts/play_ttt.py "${{ github.event.issue.title }}"
+      - name: Close Issue
+        run: gh issue close ${{ github.event.issue.number }} -c "Move processed!"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Played Tic-Tac-Toe Move" || echo "No changes to commit"
+          git push
