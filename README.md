@@ -148,20 +148,11 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 <div align="center">
 
-### 🎮 Play Tic-Tac-Toe against AI!
+### 🐍 Contribution Snake
 
-<!-- ttt_board_start -->
-**Your turn! Click a white square to play.**
-
-|   |   |   |
-|---|---|---|
-| <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C0%7C0&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C0%7C1&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C0%7C2&body=Just+submit+this+issue+to+play+your+move">⬜</a> |
-| <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C1%7C0&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C1%7C1&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C1%7C2&body=Just+submit+this+issue+to+play+your+move">⬜</a> |
-| <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C2%7C0&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C2%7C1&body=Just+submit+this+issue+to+play+your+move">⬜</a> | <a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt%7C2%7C2&body=Just+submit+this+issue+to+play+your+move">⬜</a> |
-
-<!-- ttt_board_end -->
-
-<a href="https://github.com/iamnih4l/iamnih4l/issues/new?title=ttt_reset&body=Just+submit+this+issue+to+reset+the+game">🔄 Reset Game</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamnih4l/iamnih4l/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <br>
 
