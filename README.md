@@ -37,6 +37,7 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🚀 Featured Projects:
 
+- 📋 **[Worldwide Idea Board](https://github.com/iamnih4l/IdeaBoard)**: A live, sensory real-time chalkboard vision campus connecting global builders across 6 regional classrooms. Features 3D first-person POV hallway navigation, real-time Firebase Firestore synchronization, and zero-asset procedural Web Audio sensory physics.
 - 🎭 **[EMOTIVE](https://github.com/iamnih4l/Emotive)**: A Closed-Loop Affective Narrative System (CLANS) published on CERN Zenodo (DOI: 10.5281/zenodo.23843114). Generates literary stories with Gemini conditioned dynamically on real-time local facial blendshapes (52 FACS via WASM) and procedural Web Audio ambient soundscapes.
 - ⚡ **[LinkedIn Outreach Agent](https://github.com/iamnih4l/linkdin-outreach)**: A privacy-first local connection intelligence hub connecting to authenticated Chrome via Chrome DevTools Protocol (CDP). Analyzes 1st-degree connections, categorizes roles, and synthesizes 3 authentic personalized outreach drafts per candidate with zero cloud credentials.
 - 🧠 **[NeuroFLY](https://github.com/iamnih4l/NeuroFLY)**: Computational spiking neural network (SNN) model of the Drosophila melanogaster male CNS connectome, simulating multi-modal sensory stimuli into biological brain activation states.
