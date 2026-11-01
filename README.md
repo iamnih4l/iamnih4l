@@ -37,14 +37,12 @@ Hi, I'm **Mohammed Nihal**! 👋 I'm currently pursuing a B.Tech in Computer Sci
 
 ### 🚀 Featured Projects:
 
-- 📋 **[Worldwide Idea Board](https://github.com/iamnih4l/IdeaBoard)**: A live, sensory real-time chalkboard vision campus connecting global builders across 6 regional classrooms. Features 3D first-person POV hallway navigation, real-time Firebase Firestore synchronization, and zero-asset procedural Web Audio sensory physics.
+- 🌊 **[Deluge](https://github.com/iamnih4l/Deluge)**: A real-time flood response platform continuously updating evacuation routes and safe zones using an in-memory road graph and dynamic hazard edge cost mutation to enable emergency rescue evasion.
+- 🌍 **[Gaia](https://github.com/iamnih4l/Gaia)**: Modular, research-grade AI engine for early detection of climate tipping points (AMOC, Amazon Rainforest, polar ice sheets) using Graph Neural Networks and Physics-Informed Neural Networks (PINNs) analyzing satellite telemetry with zero look-ahead causal guarantee.
+- 🔬 **[Nyx](https://github.com/iamnih4l/Nyx)**: Scientific ML instrument for particle physics analyzing CERN CMS Open Data to detect anomalous Beyond Standard Model collisions using Variational Autoencoders and Isolation Forests with sub-12ms event evaluation.
+- 🧠 **[NeuroFLY](https://github.com/iamnih4l/NeuroFLY)**: Computational spiking neural network (SNN) model of the Drosophila melanogaster male CNS connectome, simulating multi-modal sensory stimuli into biological brain activation states across high-density synaptic pathways.
+- 🛰️ **[Spacecraft Anomaly Detection](https://github.com/iamnih4l/Spacecraft-Anomaly-Detection)**: Unsupervised telemetry anomaly detector on NASA SMAP & MSL rover datasets using Dilated TCNs with Elastic Weight Consolidation (EWC) to prevent catastrophic plasticity loss over long-duration space missions.
 - 🎭 **[EMOTIVE](https://github.com/iamnih4l/Emotive)**: A Closed-Loop Affective Narrative System (CLANS) published on CERN Zenodo (DOI: 10.5281/zenodo.23843114). Generates literary stories with Gemini conditioned dynamically on real-time local facial blendshapes (52 FACS via WASM) and procedural Web Audio ambient soundscapes.
-- ⚡ **[LinkedIn Outreach Agent](https://github.com/iamnih4l/linkdin-outreach)**: A privacy-first local connection intelligence hub connecting to authenticated Chrome via Chrome DevTools Protocol (CDP). Analyzes 1st-degree connections, categorizes roles, and synthesizes 3 authentic personalized outreach drafts per candidate with zero cloud credentials.
-- 🧠 **[NeuroFLY](https://github.com/iamnih4l/NeuroFLY)**: Computational spiking neural network (SNN) model of the Drosophila melanogaster male CNS connectome, simulating multi-modal sensory stimuli into biological brain activation states.
-- 🏥 **CouncilAI**: A concept for a multi-model AI diagnostic system for medical imaging. It uses multiple AI models that act like a "council" to analyze medical images and provide reliable decisions by combining their outputs and reasoning before producing a final result.
-- 🎓 **InternSwipe**: A platform designed to help students discover internships in a more engaging way using a swipe-based interface. Matches opportunities based on skills and personality, while including training resources and gamified tasks.
-- 💬 **YeapperBot**: An AI-powered conversational assistant designed for websites and applications to help businesses automate user interactions, provide instant information, and improve engagement with contextual understanding.
-- ⏱️ **Doomsday AI Clock**: A project inspired by the global Doomsday Clock. Uses data analysis and AI-based simulation to estimate global risk levels based on geopolitical tension, technological risks, and instability indicators to visualize how close the world is to major global crises.
 
 ---
 
